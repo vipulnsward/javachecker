@@ -1,0 +1,4 @@
+The Java Backward compatibility checker enables you to verify if a new version of a library is still backward compatible.
+
+This project has been forked from [http://code.google.com/p/japi-checker/]
+
